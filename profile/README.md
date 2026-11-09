@@ -4,8 +4,7 @@
 
 Prismalite is an anyone-welcome Discord server and community led by a team of dedicated gaming creators, the home of PrismaLads, and the interactive server bot, PrismaBot.
 
+If you're here, it's probably to check out a project. If you stumbled upon the org by accident though, be sure to check out our channels linked above!
+
 ## PrismaLads
 Formed from co-owners and friends of the [Prismalite Discord server](https://discord.gg/Q5mX9W2WBx), PrismaLads sets out to create a unique dynamic where the streamers are ACTUALLY friends-- something that we feel has been missing from a lot of modern content.
-
-
-If you're here, it's probably to check out a project. If you stumbled upon the org by accident though, be sure to check out our channels linked above!
